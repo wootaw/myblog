@@ -26,7 +26,7 @@ github_username:  wootaw
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
